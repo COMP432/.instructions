@@ -43,7 +43,7 @@ By default, all team members receive the same grade based on the expectation of 
 - Written statement: Submit a statement detailing the dispute, perceived uneven contribution, prior resolution attempts, and POD involvement.
 - Instructor decision: The instructor will review the evidence and statements and may adjust individual grades. This decision is final.
 - Deadlines: Claims regarding contribution after the final (late) submission deadline for each project part will not be considered.
-- 
+  
 Teams are strongly encouraged to maintain regular communication with the POD to preempt conflicts and ensure smooth progress. The goal is fairness, not to encourage disputes.
 
 # Academic Integrity Guidelines for the Project
@@ -51,9 +51,28 @@ Teams are strongly encouraged to maintain regular communication with the POD to 
 Upholding academic integrity is essential. The following guidelines apply:
 
 - Originality of Work
--- All submissions must be the original work of the team.
--- Copying or adapting work from other teams is strictly prohibited.
--- Using external sources without proper citation is prohibited (including ChatGPT and similar tools; see below).
--- Violations may result in a failing grade or other disciplinary actions per the Academic Code of Conduct: https://www.concordia.ca/conduct/academic-integrity.html
--- Not knowing the code is not a valid defense.
-
+  - All submissions must be the original work of the team.
+  - Copying or adapting work from other teams is strictly prohibited.
+  - Using external sources without proper citation is prohibited (including ChatGPT and similar tools; see below).
+  - Violations may result in a failing grade or other disciplinary actions per the Academic Code of Conduct: https://www.concordia.ca/conduct/academic-integrity.html
+  - Not knowing the code is not a valid defense.
+- Citing External Sources
+  - If you use external datasets, code snippets, figures, or other resources, you must provide clear citations.
+  - Add all sources to your report’s References section using IEEE format.
+  - Include license/usage restrictions where relevant and follow them.
+  - Proper acknowledgment maintains integrity and demonstrates diligent research.
+- Usage of Large Language Models (LLMs) like ChatGPT
+  - LLMs may complement your work; they must not be the primary source of solutions or content.
+  - If you use an LLM, include both the exact prompt and the model’s response in your report (e.g., an appendix).
+  - You are responsible for verifying correctness, originality, and licensing compatibility of any LLM output you use.
+  - Over-reliance on LLMs may reduce marks for rigor and demonstrated understanding.
+- Collaboration vs. Copying
+  - Collaboration for brainstorming, design, and problem-solving is encouraged.
+  - All submitted code, analysis, and writing must be authored by your team.
+  - Do not share code/data/report text between teams; do not reuse another team’s artifacts.
+-- Use your private repository’s issues/PRs for intra-team collaboration and traceability.
+  - Ensure Private Repositories
+  - Host your work in a private GitHub/GitLab repository and grant access to your TA.
+  - Do not post solutions publicly (including forks, gists, or discussions) before grades are finalized.
+  - If your public repo enables another team to copy your work, both teams may be held accountable for misconduct.
+  - Preserve repository history (avoid force-pushes to hide changes); history may be requested during review.
